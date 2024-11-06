@@ -1,5 +1,3 @@
-# repo-avax
-aleph blurb avax doc
 ---
 title: Aleph Cloud
 category: Indexers
@@ -49,3 +47,4 @@ The Graph is ideal for a variety of blockchain data needs:
 ## Conclusion
 
 The Graph offers a robust solution for indexing and querying blockchain data through a decentralized protocol and GraphQL interface. By enabling efficient data organization and retrieval, The Graph supports the development of advanced dApps and data-driven applications. Whether you’re building a new application or seeking to enhance existing ones, The Graph provides the tools and infrastructure needed to manage and access blockchain data effectively.
+
